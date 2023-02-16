@@ -1,7 +1,6 @@
 # quiz
 
 A new Flutter project.
-https://github.com/achwek/Simple_Quiz_Flutter/issues/1#issue-1588400685
 ## Getting Started
 
 This project is a starting point for a Flutter application.
